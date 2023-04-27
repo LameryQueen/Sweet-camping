@@ -4,15 +4,20 @@ using UnityEngine;
 
 public class GameController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+
+    public Joystick joyStick;
 
     // Update is called once per frame
     void Update()
     {
-        
+    
+        if (Input.touchCount > 0)
+        {
+            Touch touch = Input.GetTouch(0);
+            Vector2 touchPosition = Camera.main.ScreenToWorldPoint(touch.position);
+           // touchPosition.z = 0f;
+            transform.position = touchPosition;
+        }
+
     }
 }
