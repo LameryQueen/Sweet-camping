@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: efe2a870b24a5c547b61b40fc186a1d8
+guid: 9f25b232487cdf440af61d446dd64846
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -105,160 +105,202 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Animaciones props_0
+      name: Animaciones props (1)_0
       rect:
         serializedVersion: 2
-        x: 87
-        y: 1012
-        width: 149
-        height: 168
+        x: 19
+        y: 207
+        width: 30
+        height: 34
       alignment: 9
-      pivot: {x: 0.44966444, y: 0.2559524}
+      pivot: {x: 0.44947967, y: 0.2507773}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 65858612c5413974b9e754e50cc347f3
-      internalID: -1615295795
+      spriteID: 36340eb8aa6604c41aabaa146fb0ce4c
+      internalID: -923542082
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_1
+      name: Animaciones props (1)_1
       rect:
         serializedVersion: 2
-        x: 271
-        y: 1012
-        width: 159
-        height: 174
+        x: 56
+        y: 207
+        width: 32
+        height: 35
       alignment: 9
-      pivot: {x: 0.4779874, y: 0.24712643}
+      pivot: {x: 0.4849298, y: 0.24608809}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 679f8e307ed5b7d4e95bb91975fd6f67
-      internalID: -39418552
+      spriteID: 125a9000c31507a4392c9b389d5f74ad
+      internalID: -1264242257
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_2
+      name: Animaciones props (1)_2
       rect:
         serializedVersion: 2
-        x: 465
-        y: 1012
-        width: 153
-        height: 168
+        x: 96
+        y: 207
+        width: 31
+        height: 34
       alignment: 9
-      pivot: {x: 0.503268, y: 0.2559524}
+      pivot: {x: 0.5054555, y: 0.2513073}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49619cedfbe50754389ac4a7cfbf888d
-      internalID: -1523784656
+      spriteID: 4b8053dc99a5d5640b686c90af2ee688
+      internalID: 1102243055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_3
+      name: Animaciones props (1)_3
       rect:
         serializedVersion: 2
-        x: 674
-        y: 1012
-        width: 159
-        height: 174
+        x: 139
+        y: 207
+        width: 32
+        height: 35
       alignment: 9
-      pivot: {x: 0.4842767, y: 0.24712643}
+      pivot: {x: 0.4815035, y: 0.24150173}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9679e390799d6e544bb00dbdeefda81d
-      internalID: -1970667016
+      spriteID: 8a9145f30de82b94889f97b8e461821b
+      internalID: 816255102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_4
+      name: Animaciones props (1)_4
       rect:
         serializedVersion: 2
-        x: 893
-        y: 1012
-        width: 149
-        height: 168
+        x: 183
+        y: 207
+        width: 30
+        height: 34
       alignment: 9
-      pivot: {x: 0.44966444, y: 0.2559524}
+      pivot: {x: 0.44926706, y: 0.2513073}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6f464e3f46e70ea47bb166fac07d780e
-      internalID: -1596971987
+      spriteID: b2e33d8be95e38d47bd2d7f0a8cccc3d
+      internalID: -539280568
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_5
+      name: Animaciones props (1)_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 134
+        width: 21
+        height: 56
+      alignment: 9
+      pivot: {x: 0.3999067, y: 0.113525935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528c6f6f14c34b84391600f1e67dab23
+      internalID: 1826326905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones props (1)_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 134
+        width: 22
+        height: 56
+      alignment: 9
+      pivot: {x: 0.43061656, y: 0.11430032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6498fc038de15745a626e0b0913d7e8
+      internalID: 1744683883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animaciones props (1)_7
       rect:
         serializedVersion: 2
         x: 101
-        y: 654
-        width: 105
-        height: 277
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 134
+        width: 21
+        height: 56
+      alignment: 9
+      pivot: {x: 0.40914083, y: 0.11430032}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 358d42077805ba64888ae28a84255f63
-      internalID: 622354640
+      spriteID: 20220175ebf8d3e4d8061751432c35ac
+      internalID: -1156523343
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_6
+      name: Animaciones props (1)_8
       rect:
         serializedVersion: 2
-        x: 292
-        y: 654
-        width: 108
-        height: 277
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 140
+        y: 134
+        width: 21
+        height: 56
+      alignment: 9
+      pivot: {x: 0.40914044, y: 0.11430032}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56f61cf62ca3e4045b5c44ae2963f985
-      internalID: 1987466776
+      spriteID: 7792ef50e4f1ddf48a3b060ce6e7a018
+      internalID: -2127463941
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_7
+      name: Animaciones props (1)_9
       rect:
         serializedVersion: 2
-        x: 490
-        y: 654
-        width: 104
-        height: 277
+        x: 15
+        y: 77
+        width: 37
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81213f627a21740488894485774fb73d
-      internalID: -1993195352
+      spriteID: e365b09d79398bd488e8e9760b6efa3a
+      internalID: 2086578753
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_8
+      name: Animaciones props (1)_10
       rect:
         serializedVersion: 2
-        x: 683
-        y: 654
-        width: 104
-        height: 277
+        x: 79
+        y: 77
+        width: 37
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -287,20 +329,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e008f919530e56499fb5bf225b78e3d
-      internalID: 351604043
+      spriteID: 3bf6dfce239ecf14d9021453fc34236a
+      internalID: 631869315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_9
+      name: Animaciones props (1)_11
       rect:
         serializedVersion: 2
-        x: 69
-        y: 376
-        width: 182
-        height: 144
+        x: 143
+        y: 77
+        width: 37
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,20 +350,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3560841d457097d4b87ffe9b79e72370
-      internalID: 1906781579
+      spriteID: 05bb91fe1b5e2e140923f8b82c4a9019
+      internalID: 1420485467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_10
+      name: Animaciones props (1)_12
       rect:
         serializedVersion: 2
-        x: 383
-        y: 376
-        width: 182
-        height: 144
+        x: 207
+        y: 77
+        width: 37
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,20 +371,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d90add91b1958c4b8b52765f37c472e
-      internalID: -430399079
+      spriteID: 5999a4ac990aae04a8563c791daa2ef1
+      internalID: -125662165
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_11
+      name: Animaciones props (1)_13
       rect:
         serializedVersion: 2
-        x: 696
-        y: 376
-        width: 182
-        height: 144
+        x: 281
+        y: 82
+        width: 20
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,20 +392,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ca4d7f9c2e4668849b0cd028496832a2
-      internalID: -2003886745
+      spriteID: c02306aeb2c65cb4aa471d9727e97d02
+      internalID: 713676575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_12
+      name: Animaciones props (1)_14
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 376
-        width: 182
-        height: 144
+        x: 13
+        y: 5
+        width: 38
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,20 +413,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a2c521f27d0b2114682fc19fb2ef15bc
-      internalID: -1052657504
+      spriteID: 6ba9de2a807cd794182d98c47bb096c8
+      internalID: 1317206532
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_13
+      name: Animaciones props (1)_15
       rect:
         serializedVersion: 2
-        x: 1371
-        y: 402
-        width: 98
-        height: 64
+        x: 77
+        y: 5
+        width: 38
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -392,20 +434,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e989e8bd0abf6e5419f8c098a49077d4
-      internalID: 1765085753
+      spriteID: e3257b9b2af289a41ac1567e828b2d88
+      internalID: -2067323463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_14
+      name: Animaciones props (1)_16
       rect:
         serializedVersion: 2
-        x: 58
-        y: 25
-        width: 187
-        height: 270
+        x: 141
+        y: 5
+        width: 38
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,20 +455,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 979e59048b6dc8444bca7f3874336e1c
-      internalID: -361224658
+      spriteID: e88e9148919c82d418628c81b5158223
+      internalID: 1725658017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_15
+      name: Animaciones props (1)_17
       rect:
         serializedVersion: 2
-        x: 372
-        y: 25
-        width: 187
-        height: 270
+        x: 205
+        y: 5
+        width: 38
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -434,20 +476,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9a70a4338524744e889dd291cd7100d
-      internalID: 331844802
+      spriteID: 32cffb69b00eb524f8435a98d7632277
+      internalID: -414701110
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_16
+      name: Animaciones props (1)_18
       rect:
         serializedVersion: 2
-        x: 685
-        y: 25
-        width: 187
-        height: 270
+        x: 269
+        y: 5
+        width: 38
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -455,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b18a94d758bcd924f80646d319b12520
-      internalID: 1771437672
+      spriteID: 7e2f3c2517194eb40a455e2cac084a8a
+      internalID: 1266869808
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_17
+      name: Animaciones props (1)_19
       rect:
         serializedVersion: 2
-        x: 999
-        y: 25
-        width: 187
-        height: 270
+        x: 332
+        y: 5
+        width: 38
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -476,20 +518,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 252b224f2ee3a144a84ce061fbdc85f7
-      internalID: 143503749
+      spriteID: 073cd203a6d07c844b74e3c37ead351d
+      internalID: -204616823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Animaciones props_18
+      name: Animaciones props (1)_20
       rect:
         serializedVersion: 2
-        x: 1312
-        y: 25
-        width: 187
-        height: 270
+        x: 396
+        y: 5
+        width: 38
+        height: 55
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -497,50 +539,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 054eb06ab2832874ea916f3d78034636
-      internalID: -1734261094
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Animaciones props_19
-      rect:
-        serializedVersion: 2
-        x: 1626
-        y: 25
-        width: 187
-        height: 270
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d3cdb797b7257f438d2045f947086ec
-      internalID: -324152111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Animaciones props_20
-      rect:
-        serializedVersion: 2
-        x: 1939
-        y: 25
-        width: 187
-        height: 270
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b9c46653dd281940b028b78bc77baf8
-      internalID: -1081102979
+      spriteID: 08e97a3a0e04c4b4ea74894788fe5e8e
+      internalID: 1648192638
       vertices: []
       indices: 
       edges: []
@@ -556,27 +556,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Animaciones props_0: -1615295795
-      Animaciones props_1: -39418552
-      Animaciones props_10: -430399079
-      Animaciones props_11: -2003886745
-      Animaciones props_12: -1052657504
-      Animaciones props_13: 1765085753
-      Animaciones props_14: -361224658
-      Animaciones props_15: 331844802
-      Animaciones props_16: 1771437672
-      Animaciones props_17: 143503749
-      Animaciones props_18: -1734261094
-      Animaciones props_19: -324152111
-      Animaciones props_2: -1523784656
-      Animaciones props_20: -1081102979
-      Animaciones props_3: -1970667016
-      Animaciones props_4: -1596971987
-      Animaciones props_5: 622354640
-      Animaciones props_6: 1987466776
-      Animaciones props_7: -1993195352
-      Animaciones props_8: 351604043
-      Animaciones props_9: 1906781579
+      Animaciones props (1)_0: -923542082
+      Animaciones props (1)_1: -1264242257
+      Animaciones props (1)_10: 631869315
+      Animaciones props (1)_11: 1420485467
+      Animaciones props (1)_12: -125662165
+      Animaciones props (1)_13: 713676575
+      Animaciones props (1)_14: 1317206532
+      Animaciones props (1)_15: -2067323463
+      Animaciones props (1)_16: 1725658017
+      Animaciones props (1)_17: -414701110
+      Animaciones props (1)_18: 1266869808
+      Animaciones props (1)_19: -204616823
+      Animaciones props (1)_2: 1102243055
+      Animaciones props (1)_20: 1648192638
+      Animaciones props (1)_3: 816255102
+      Animaciones props (1)_4: -539280568
+      Animaciones props (1)_5: 1826326905
+      Animaciones props (1)_6: 1744683883
+      Animaciones props (1)_7: -1156523343
+      Animaciones props (1)_8: -2127463941
+      Animaciones props (1)_9: 2086578753
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
