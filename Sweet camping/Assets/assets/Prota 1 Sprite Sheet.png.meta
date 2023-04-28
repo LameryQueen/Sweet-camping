@@ -105,7 +105,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_0
+      name: andando iz1
       rect:
         serializedVersion: 2
         x: 0
@@ -113,7 +113,7 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -126,15 +126,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_1
+      name: andando iz2
       rect:
         serializedVersion: 2
         x: 18
         y: 70
         width: 16
-        height: 31
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,7 +147,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_2
+      name: andando iz3
       rect:
         serializedVersion: 2
         x: 34
@@ -155,7 +155,7 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,7 +168,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_3
+      name: andando iz4
       rect:
         serializedVersion: 2
         x: 51
@@ -176,7 +176,7 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,15 +189,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_4
+      name: andando iz5
       rect:
         serializedVersion: 2
         x: 69
         y: 70
         width: 16
-        height: 31
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,7 +210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_5
+      name: andando iz6
       rect:
         serializedVersion: 2
         x: 85
@@ -218,7 +218,7 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,7 +231,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_6
+      name: espalda1
       rect:
         serializedVersion: 2
         x: 0
@@ -239,7 +239,7 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,15 +252,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_7
+      name: espalda3
       rect:
         serializedVersion: 2
         x: 35
-        y: 36
+        y: 35
         width: 15
-        height: 31
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,7 +273,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_8
+      name: espalda4
       rect:
         serializedVersion: 2
         x: 51
@@ -281,7 +281,7 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,15 +294,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_9
+      name: espalda6
       rect:
         serializedVersion: 2
         x: 86
-        y: 36
+        y: 35
         width: 15
-        height: 31
+        height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -323,7 +323,7 @@ TextureImporter:
         width: 17
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -344,7 +344,7 @@ TextureImporter:
         width: 17
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,7 +357,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_12
+      name: espalda2
       rect:
         serializedVersion: 2
         x: 18
@@ -365,7 +365,7 @@ TextureImporter:
         width: 16
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,7 +378,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_13
+      name: espalda5
       rect:
         serializedVersion: 2
         x: 68
@@ -386,7 +386,7 @@ TextureImporter:
         width: 17
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -399,7 +399,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_14
+      name: Prota 1 Sprite Sheet_12
       rect:
         serializedVersion: 2
         x: 35
@@ -407,7 +407,7 @@ TextureImporter:
         width: 16
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -420,7 +420,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_15
+      name: Prota 1 Sprite Sheet_13
       rect:
         serializedVersion: 2
         x: 51
@@ -428,7 +428,7 @@ TextureImporter:
         width: 17
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -441,7 +441,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_16
+      name: Prota 1 Sprite Sheet_14
       rect:
         serializedVersion: 2
         x: 68
@@ -449,7 +449,7 @@ TextureImporter:
         width: 17
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -462,7 +462,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Prota 1 Sprite Sheet_17
+      name: Prota 1 Sprite Sheet_15
       rect:
         serializedVersion: 2
         x: 85
@@ -470,7 +470,7 @@ TextureImporter:
         width: 17
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -493,24 +493,24 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Prota 1 Sprite Sheet_0: 1989687410
-      Prota 1 Sprite Sheet_1: 590309616
       Prota 1 Sprite Sheet_10: 1928666422
       Prota 1 Sprite Sheet_11: -700036267
-      Prota 1 Sprite Sheet_12: 529967276
-      Prota 1 Sprite Sheet_13: 245800893
-      Prota 1 Sprite Sheet_14: -1839744642
-      Prota 1 Sprite Sheet_15: -950218780
-      Prota 1 Sprite Sheet_16: -54350651
-      Prota 1 Sprite Sheet_17: -1602158169
-      Prota 1 Sprite Sheet_2: -700440348
-      Prota 1 Sprite Sheet_3: -1167386842
-      Prota 1 Sprite Sheet_4: -960325559
-      Prota 1 Sprite Sheet_5: 1455608758
-      Prota 1 Sprite Sheet_6: 249788331
-      Prota 1 Sprite Sheet_7: -806969194
-      Prota 1 Sprite Sheet_8: 1081386784
-      Prota 1 Sprite Sheet_9: 1607289436
+      Prota 1 Sprite Sheet_12: -1839744642
+      Prota 1 Sprite Sheet_13: -950218780
+      Prota 1 Sprite Sheet_14: -54350651
+      Prota 1 Sprite Sheet_15: -1602158169
+      andando iz1: 1989687410
+      andando iz2: 590309616
+      andando iz3: -700440348
+      andando iz4: -1167386842
+      andando iz5: -960325559
+      andando iz6: 1455608758
+      espalda1: 249788331
+      espalda2: 529967276
+      espalda3: -806969194
+      espalda4: 1081386784
+      espalda5: 245800893
+      espalda6: 1607289436
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
