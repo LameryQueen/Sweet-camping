@@ -9,4 +9,6 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 1a75e17bfc6e8c945b1ea81879844e56, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: fcda4b9829966dc49b0a07c56d732d5a, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: c4c3d53e3d733d5478dc999fa4b68bee, type: 2}
