@@ -698,7 +698,6 @@ GameObject:
   - component: {fileID: 716866867}
   - component: {fileID: 716866869}
   - component: {fileID: 716866868}
-  - component: {fileID: 716866870}
   m_Layer: 8
   m_Name: Tilemap
   m_TagString: Untagged
@@ -9237,7 +9236,7 @@ Tilemap:
       - {fileID: 35701161, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
       - {fileID: 386456946, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
       - {fileID: 1580811819, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -5, y: -5, z: 0}
@@ -9267,7 +9266,7 @@ Tilemap:
       - {fileID: 35701161, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
       - {fileID: 386456946, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
       - {fileID: 1580811819, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -3, y: -5, z: 0}
@@ -9402,7 +9401,7 @@ Tilemap:
       - {fileID: 1312095039, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
       - {fileID: 1277145011, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
       - {fileID: 723707684, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -9, y: -3, z: 0}
@@ -9417,7 +9416,7 @@ Tilemap:
       - {fileID: 35701161, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
       - {fileID: 386456946, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
       - {fileID: 1580811819, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -8, y: -3, z: 0}
@@ -9477,7 +9476,7 @@ Tilemap:
       - {fileID: 35701161, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
       - {fileID: 386456946, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
       - {fileID: 1580811819, guid: 2872b536f98c93f4daa61e7470a27384, type: 3}
-      m_AnimationSpeed: 6.0000005
+      m_AnimationSpeed: 6
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -4, y: -3, z: 0}
@@ -9582,7 +9581,7 @@ Tilemap:
       - {fileID: 2080553896, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
       - {fileID: -880751, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
       - {fileID: 1619796806, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -5, y: -2, z: 0}
@@ -9612,7 +9611,7 @@ Tilemap:
       - {fileID: 2080553896, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
       - {fileID: -880751, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
       - {fileID: 1619796806, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -3, y: -2, z: 0}
@@ -9627,7 +9626,7 @@ Tilemap:
       - {fileID: 2080553896, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
       - {fileID: -880751, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
       - {fileID: 1619796806, guid: 88a824d6246fbd742a4e6ca030d3da24, type: 3}
-      m_AnimationSpeed: 6
+      m_AnimationSpeed: 6.0000005
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: -2, y: -2, z: 0}
@@ -9823,32 +9822,6 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!61 &716866870
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 716866866}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: -1, y: 2.5}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0, y: 0}
-    oldSize: {x: 0, y: 0}
-    newSize: {x: 0, y: 0}
-    adaptiveTilingThreshold: 0
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 42, y: 21}
-  m_EdgeRadius: 0
 --- !u!1 &735737934
 GameObject:
   m_ObjectHideFlags: 0
@@ -9985,7 +9958,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.45479053}
