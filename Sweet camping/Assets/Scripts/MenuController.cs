@@ -12,6 +12,7 @@ public class MenuController : MonoBehaviour
     public GameObject panelIni;
     public GameObject panelMenu;
     public GameObject panelOptions;
+    public GameObject panelExit;
     //BOTONES
     public GameObject startBo;
     public GameObject optionBo;
@@ -20,7 +21,7 @@ public class MenuController : MonoBehaviour
     //ANIMACIONES DE ENTRADA Y SALIDA
     public GameObject panelIn;
     public GameObject panelOut;
-    public Animator anim;
+   // public Animator anim;
     public bool entrada = false;
     public bool salida = false;
     //AUDIO
@@ -30,36 +31,48 @@ public class MenuController : MonoBehaviour
     {
         panelIni.SetActive(true);
         panelOptions.SetActive(false);
+        panelMenu.SetActive(false);
+        panelExit.SetActive(false);
 
         panelOut.SetActive(false);
-        panelIn.SetActive(true);
+       // panelIn.SetActive(true);
     }
 
     void Update()
-    {
-        if (entrada == false)
-        {
+    {        
             if (Input.anyKeyDown)
             {
                 EntradaMenu();
             }
-        }
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                 panelExit.SetActive(true);
+            }
+        
+    }
+
+    public void NoSalirJuego()
+    {
+        panelExit.SetActive(false);
     }
     //ACTIVA EL MENU PRICNIPAL
     public void EntradaMenu()
     {
         entrada = true;
-        anim.SetBool("Entrada", true);
+        panelMenu.SetActive(true);
+        panelIni.SetActive(false);
+      //  anim.SetBool("Entrada", true);
     }
     //INICIA EL JUEGO
     public void StartGame()
     {
+        
         panelOut.SetActive(true);
         panelIn.SetActive(false);
         salida = true;
-        anim.SetBool("Salida", true);
+      //  anim.SetBool("Salida", true);
         entrada = false;
-        anim.SetBool("Entrada", false);
+      //  anim.SetBool("Entrada", false);
         //HACE QUE TARDE EN LLAMAR LA FUNCION
         Invoke("CambioEscena", 1f);
     }
@@ -75,12 +88,13 @@ public class MenuController : MonoBehaviour
         startBo.SetActive(false);
         loadBo.SetActive(false);
         quitBo.SetActive(false);
+        optionBo.SetActive(false);
     }
 
     //SE USA PARA VOLVER AL MENU PRINCIPAL 
     public void BackButtom()
     {
-        if (panelOptions == false)
+        if (panelOptions == true)
         {
             panelOptions.SetActive(false);
 
@@ -99,6 +113,7 @@ public class MenuController : MonoBehaviour
     //TE SALES DEL JUEGO
     public void QuitGame()
     {
+        print("SALI del JUEGO");
         Application.Quit();
     }
 
